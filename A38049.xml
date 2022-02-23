@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and articles exhibited in Parliament against Doctor Heywood, late chaplen to the Bishop of Canterburie by the parishioners of S. Giles in the Fields ; with some considerable circumstances, worth observing, in the hearing of the businesse before the grand committee for religion and of his demeanour since.</title>
+            <author>Saint Giles in the Fields Parish Church (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38049</idno>
+            <idno type="STC">Wing E2155</idno>
+            <idno type="STC">ESTC R13525</idno>
+            <idno type="EEBO-CITATION">12717538</idno>
+            <idno type="OCLC">ocm 12717538</idno>
+            <idno type="VID">66245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 253:E158, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and articles exhibited in Parliament against Doctor Heywood, late chaplen to the Bishop of Canterburie by the parishioners of S. Giles in the Fields ; with some considerable circumstances, worth observing, in the hearing of the businesse before the grand committee for religion and of his demeanour since.</title>
+                  <author>Saint Giles in the Fields Parish Church (London, England)</author>
+                  <author>Haywood, William, 1599 or 1600-1663, defendant.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Haywood, William, 1599 or 1600-1663 --  Trials, litigation, etc.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66245:1" rendition="simple:additions"/>
+            <p>THE PETITION AND ARTICLES Exhibited in Parliament againſt Doctor <hi>Heywood,</hi> late Chaplen to the Biſhop of CANTERBURIE, By the Pariſhioners of S. <hi>Giles</hi> in the Fields.</p>
+            <p>With ſome conſiderable circumſtances (worth ob<g ref="char:EOLhyphen"/>ſerving) in the Hearing of the Buſineſſe before the grand Committee for Religion, and of his demeanour ſince.</p>
+            <p>London printed. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66245:2"/>
+            <pb facs="tcp:66245:2"/>
+            <head>TO THE HONOVRABLE, the Knights, Citizens, and Burgeſ<g ref="char:EOLhyphen"/>ſes of the Commons Houſe in Parliament, the humble Petition of divers of the Pariſhio<g ref="char:EOLhyphen"/>ners, of the Pariſh of Saint <hi>Gyles</hi> in the fields, in the County of Middleſex.</head>
+            <p>
+               <hi>Moſt humbly ſheweth,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>HAT we live under the paſtoral charge of one <hi>William Haywood</hi> Doctor of Divinity, who hath lately publiſhed in ſundry Sermons by him preached in his Pariſh Church moſt damnable and erro<g ref="char:EOLhyphen"/>nious Doctrines, full of groſſe Po<g ref="char:EOLhyphen"/>piſh tenents. And whileſt he was Houſe Chaplaine to the Archbiſhop of Canterbury, did licence a Booke Intituled, <hi>An Introduction to a devout Life,</hi> containing the like Popiſh Doctrines, all tending to the drawing away and ſeducing of the reſpective Rea<g ref="char:EOLhyphen"/>ders and Hearers from the true Orthodox faith, and to the upholding and advancing of the Popiſh Religion, whoſe practiſe in Church diſcipline, is ſuperſtitious and Idola<g ref="char:EOLhyphen"/>trous; manifeſted by ſtrange anticke jeſtures of cringings and bowings, by uſing and approving of many Antiqua<g ref="char:EOLhyphen"/>ted obſolet and Popiſh Ceremonies; both in the Admi<g ref="char:EOLhyphen"/>niſtration
+<pb n="2" facs="tcp:66245:3"/>of the holy Sacrament of the Lords Supper, and in other holy duties: Contrary to the Lawes eſtabliſhed within this Realme, in whoſe Pariſh Church aforeſaid, are ſet up Crucifixes, and divers Images of Saints, and likewiſe Organs, with other confuſed Muſicke hindering devotion, are maintained to the great and needleſſe charge of the Pariſh. The particulars are contained in a Scedule annexed, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all tending to the great diſhonour of God, the violation of his holy truth, to the abuſe of his holy Ordinances, to the utter ſubverſion and overthrow of the true Religion eſtabliſhed, to the unſpeakeable griefe of our hearts, who deſire onely to ſerve the Lord according to the rule laid downe in his holy Word, and who are hereby forced againſt our wills, to ſeeke out the ſincere ſaving truth in our neighbouring Churches, not being able to heare, and in our conſciences not daring to joyne in ſuch Idolatrous worſhip, all which we are rea<g ref="char:EOLhyphen"/>dy to make good, as this Honourable Aſſembly ſhall ap<g ref="char:EOLhyphen"/>point.</p>
+            <p>And therefore we doe moſt humbly pray that this Honourable Aſſembly will take ſuch a courſe for his removall, that we may hereafter enjoy a faithfull Paſtor, who may diſpence unto us Gods Word and Sacraments, in our Pariſh, ac<g ref="char:EOLhyphen"/>cording to Gods owne Ordinance, without the ſuperſtitious mixture of humane Inven<g ref="char:EOLhyphen"/>tions. And we ſhall pray, &amp;c.</p>
+            <p>
+               <hi>Some of the particular Erroneous Popiſh Doctrines preached in the Pariſh Church of Saint</hi> Gyles <hi>in the fields, at ſeverall times by</hi> William Haywood, <hi>Doctor of Divinity.</hi>
+            </p>
+            <list>
+               <item>I. 1. HE affirmed that a Miniſter hath power to remit and retaine ſinnes, and not declaratively, or Mi<g ref="char:EOLhyphen"/>niſterially
+<pb n="3" facs="tcp:66245:3"/>onely, as (he ſaid) ſome would have it, but actu<g ref="char:EOLhyphen"/>ally and abſolutely. And for proofe whereof he cited <hi>Iohn</hi> 20.23. <hi>Whoſoever ſinnes ye remit, they are, &amp;c.</hi>
+               </item>
+               <item>II. 2. He affirmed that every man in his naturall condition is by the fall of <hi>Adam</hi> wounded onely, and but halfe dead, which he preached the ſeventh of June laſt paſt, on the Sabbath day, and proved it from <hi>Luke</hi> 10 30. <hi>A certain man went downe from Ieruſalem to Jericho, and fell among theeves, who ſtripped him of his raiment and wounded him and departed,</hi> Leaving him halfe dead.</item>
+               <item>III. 3 He affirmed that the Virgin <hi>Mary</hi> was free from, and without any mortall ſinnes, which he preached lately on a Sabbath day, on <hi>Iohn</hi> 2.4. <hi>Ieſus ſaith unto her, Woman what have I to doe with thee, &amp;c.</hi>
+               </item>
+               <item>IV. 4 He affirmed that Confeſſion to the Prieſt of our parti<g ref="char:EOLhyphen"/>cular ſins, is very neceſſary to the forgiveneſſe of ſinne, and that they who did not do it, were guilty of a great ſin. <hi>Cum multis al<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> (had they been noted.)</item>
+            </list>
+            <p>
+               <hi>Particular Erroneous, Popiſh Doctrines, contained in a Book Intituled,</hi> An Introduction to a devout life, <hi>allowed (with a large approbation) by the ſaid Doctor to be Printed, whilst hee was Houſe Chap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ains to the Archbiſhop of Canterbury.</hi>
+            </p>
+            <list>
+               <item>1 To pray is a remedy againſt temptation, but if that faile, Then haſtily run in ſpirit to the Croſſe of our bleſſed Saviour Jeſus, imagining thou feeſt him hanging thereon before thy face, and imbrace, as it were, the foot of the Croſſe upon thy knees, laying faſt hold upon it as upon an aſſured Sanctuary, <hi>page</hi> 591. <hi>chap.</hi> 7.</item>
+               <item>2 Stir up thy heart other times with corporall geſtures of outward devotion, proſtrating thy ſelfe upon the ground, laying thy armes a croſſe before thy breaſt, imbracing his Image, which Exteriour Acts are onely to be uſed when thou art retired alone in ſome ſecret Cloſet, <hi>Pa.</hi> 159. <hi>Cha</hi> 9.</item>
+               <pb n="4" facs="tcp:66245:4"/>
+               <item>3 By neceſſary obedience thou muſt obey thy Eccleſiaſti<g ref="char:EOLhyphen"/>call ſuperiour as the ſupreme head of Chriſts Church; Alſo Arch-biſhops, Biſhops, Paſtors, and ſuch as are their Depu<g ref="char:EOLhyphen"/>ties, Thou muſt obey thy Civill Superiours, to wit, the Prin<g ref="char:EOLhyphen"/>ces and Magiſtrates, but ever in that which he hath charge over us; As in that which belongs to Civill Policy, and pub<g ref="char:EOLhyphen"/>like affairs, we muſt obey our Prince; Our Prelate in that which belongs to Eccleſiaſtical matters, <hi>p.</hi> 366, 336.339. <hi>c.</hi> 11.</item>
+               <item>4 Call to the Saints of heaven, our bleſſed Lady, thy good Angell, and the reſt of the Saints to whom thou haſt an eſpeciall devotion, to keepe thee in the way to heaven, <hi>Page</hi> 691. Pray for the whole Church of God, employing and imploring, to that end the interceſſion of our bleſſed Lady, <hi>Page</hi> 149. When thou commeſt before thy ſpirituall guide, imagine thy ſelfe to be on Mount Calvary, kneeling right under the feet of Jeſus Chriſt crucified, &amp;c. <hi>Pag.</hi> 10.</item>
+               <item>5 An example of the practiſe of good thoughts, by S. <hi>Anſelme</hi> Archbiſhop of Canterbury: a Leveret ſtarted and ſore preſſed by hounds, as this holy Prelate went on a jour<g ref="char:EOLhyphen"/>ney, ran under his horſe, as to the beſt place of refuge, that the imminent danger of death ſuggeſted, barking and brag<g ref="char:EOLhyphen"/>ging round about, durſt not preſume to violate the San<g ref="char:EOLhyphen"/>ctuary, to which their pray had taken recourſe, <hi>P.</hi> 183, 184.</item>
+               <item>6 Examples of good and manfull courage of Saint <hi>Francis,</hi> and Saint <hi>Bennet,</hi> who feeling the great temptati<g ref="char:EOLhyphen"/>ons of the fleſh which they ſuffered, the one caſt himſelfe naked into the thornes, and the other into the Snow to mitigate them, <hi>Page</hi> 571.</item>
+               <item>7 Now certaine it is that imperfections and veniall ſins, doe not take from us the life of grace, for that is never loſt but by deadly ſin. The onely care then that remaines, is, that theſe imperfections doe not daunt our courage, <hi>Page</hi> 31. for a <hi>veniall</hi> ſinne, be it never ſo little, diſpleaſeth Al<g ref="char:EOLhyphen"/>mighty God, though not ſo hainouſly, that he will damme us for it, <hi>Page</hi> 112.</item>
+               <item>8 It is <hi>no</hi> hainous ſinne (my <hi>Philotheus</hi>) to tell ſome
+<pb n="5" facs="tcp:66245:4"/>little lie in paſtime, to exceed ſomewhat in needleſſe talke, in careleſſe lookes, in apparell, in mirth, in play, in dancing, and ſuch like toyes, <hi>Page</hi> 114.</item>
+               <item>9 In the Sacrament of Marriage, the Prieſt halloweth the wedding Ring, <hi>Page</hi> 520.</item>
+               <item>10 Our bleſſed Saviour hath inſtituted the <hi>venerable</hi> Sacrament of the Euchariſt, which containeth <hi>really</hi> and verely his fleſh and blood, to the end that he that eateth it ſhould live eternally, <hi>Page</hi> 219. in which he doth annihi<g ref="char:EOLhyphen"/>late himſelfe in a manner, and turneth himſelfe into our ce<g ref="char:EOLhyphen"/>leſtiall food, that ſo he may feed and nouriſh our ſoules, and make his intrinſecall abode for ever within the hearts and bodies of his faithfull ſervants, <hi>Page</hi> 230.</item>
+               <item>11 As for bodily diſeaſes, none are lawfull impediments from participating of this holy Sacrament, ſave onely thoſe which provoke much vomiting, <hi>Page</hi> 226.</item>
+               <item>12 To communicate every eighth day is requiſite, nei<g ref="char:EOLhyphen"/>ther to be guilty of mortall ſin, nor of any affection to ve<g ref="char:EOLhyphen"/>niall ſinne, <hi>Page</hi> 227.</item>
+            </list>
+            <p>Doctor <hi>Heywards</hi> Superſtitious and Idolatrous manner of adminiſtration of the Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per, in the Pariſh Church of Saint <hi>Gyles</hi> aforeſaid.</p>
+            <p>The ſaid Church is divided into three parts: the <hi>San<g ref="char:EOLhyphen"/>ctum Sanctorum</hi> being one of them, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>parated from the Chancell by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> large Screene in the figure of a beautifull Gate, in which is carved two large pillars, and three large ſtatues: on the one ſide is <hi>Paul</hi> with his ſword, on the other <hi>Barnabas</hi> with his Booke, and over them <hi>Peter</hi> with his Keyes, they are ſet above with winged Cerubims, and beneath ſupported with Lions.</p>
+            <p>Seven or eight foot within this holy place is a raiſing by three ſteps, and from thence a long raile from one wall to the other, into which place none muſt enter but the Prieſts and the Subde<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, this place is covered before the Al<g ref="char:EOLhyphen"/>tar with afaire wrought Carpet, the Altar doth ſtand cloſe up to the wallon the Eaſt ſide, and a Deske raiſed upon
+<pb n="6" facs="tcp:66245:5"/>that with degrees of advancement, this Deske is overlaid with a covering of Purple Velvet, which hath a great gold and ſilke fringe round about, and on this Desk is placed two great Bookes wrought with needle worke, in which are made the pictures of Chriſt, and the Virgin <hi>Mary</hi> with Chriſt in her armes, and theſe are placed on each ſide of the Deske, And on this Altar a is double cove<g ref="char:EOLhyphen"/>ring, one of Tapeſtry, and upon that a long fine Lawne doth, with a very rich Bone-lace. The walls are hanged round within the rayle, with Hue ſilke Taffata Curtaines. In the exteriour Acts of adminiſtring the Sacrament; For the preparation to this duty, the ſaid Doctor and three Subdeacons doe all goe from the body of the ſaid Church unto the Weſt end, being there cloathed according to their Order, ſome in Scarlet, ſilke, and fine linnen, they bend their courſe towards the Eaſt, every one at their firſt en<g ref="char:EOLhyphen"/>trance ſaluting the Church dore with low Congies, then they all move to the middle of the Church, where they all ducke downe towards the Eaſt, then they all advance to the beautifull gate, where they ſtand; Then every one bowing to the ground three ſeverall times as they goe. They enter into the <hi>Sanctum Sanctorum</hi> in which place they reade their ſecond Service, and it is divided into three parts, which is acted by them all three, with change of place, and many duckings before the Altar, with divers Tones in their Voyces, high and low, with many ſtrange actions by their hands, now up then downe, This being ended, the Doctor takes the Cups from the Altar and delivers them to one of the Subdeacons who placeth' them upon a ſide Table, Then the Doctor kneeleth to the Altar, but what he doth we know not, nor what hee meaneth by it. This dumbe devotion being ended, and the Altar more holy, the Cups are returned to him in the ſame manner as he gave them, which the Doctor re<g ref="char:EOLhyphen"/>ceives kneeling, and ſo doth he place them upon the Al<g ref="char:EOLhyphen"/>tar, with great adoration, in the bending of his body, and in
+<pb n="7" facs="tcp:66245:5"/>touching each of them with his finger. The bread being ſet upon a Plate, and ſome of the wine powred into a bowle, all are covered with a fine linnen cloth; which cloth hath the corners laid in the figure of a croſſe. This being ended, he continues in his dumbe devotion on his knees towards the Eaſt, his backe being towards the people, he taketh mo<g ref="char:EOLhyphen"/>ney out of his pocket, and laieth it on the ground for a time, and then he taketh it up, and offereth it, being on his knees with a very great bending of his body to the Altar, which gift is reſerved in a Baſon onely for that uſe. In theſe dumb devotions of his, the Organs Play in a dolefull low tune. When this is finiſhed, the Doctor begins the Conſecrati<g ref="char:EOLhyphen"/>on, which being ended, the number of beckings, bowings, and bendings, by him and the Subdeacons before the Al<g ref="char:EOLhyphen"/>tar, are impious, ungodly, and abominable to behold.</p>
+            <p>Theſe Articles were all proved before the grand Committee for Religion, which appeared to be farre worſe, by the circumſtances declared by the witneſſes: For it was proved that when that Popiſh Book was Print<g ref="char:EOLhyphen"/>ing, the Printer ſeeing ſuch groſſe Popery in it, commanded his Workman to ſtay his hand, till hee ſpoke with the Li<g ref="char:EOLhyphen"/>cencer: ſo he tooke his Corrector of his Worke, (being a Maſter of Arts) with him, and ſhewed the Doctor di<g ref="char:EOLhyphen"/>vers Popiſh paſſages in the Booke, ſaying he durſt not Print it, asking him if he had not overſlipt the reading of them. Hee looked on thoſe they ſhewed, and gave the Printer order to goe on with the Booke, he would juſtifie it, and would preach the ſame before the King his Ma<g ref="char:EOLhyphen"/>ſter (he being now his Majeſties Chaplen preferred there<g ref="char:EOLhyphen"/>to by <hi>Canterbury</hi>) It was proved that (the book being cal<g ref="char:EOLhyphen"/>led in by warrant, &amp;c) the Printer was troubled and put into the Purſivants hands, threatned with Starre-chamber, except hee would deliver up the originall Copy by which he printed, which he refuſed to doe, for that it is ever their cuſtome to keepe originals by them for their owne ſafe<g ref="char:EOLhyphen"/>guards
+<pb n="8" facs="tcp:66245:6"/>if they ſhould be queſtioned, to ſhew the Licence, &amp;c. But at length hee by promiſes and threats, was conſtrained to deliver up the Copy wherein the Li<g ref="char:EOLhyphen"/>cence was witten by the Doctours owne hand. Which being got, the Doctour or others for him did pro<g ref="char:EOLhyphen"/>cure a Proclamation to bee ſet out, wherein it was decla<g ref="char:EOLhyphen"/>red that the Printer and the Authour had conſpired, and had put in all the Popery after it was licenſed, the Printer being then diſabled to prove the contrary.</p>
+            <p>At the hearing of the buſineſſe before the Committee, the Doctour was asked in what places it was altered from that he licenced. Hee anſwered, in Page 691. Article 4. He allowed it to bee read, <hi>Call to minde the Saints of Hea<g ref="char:EOLhyphen"/>ven &amp;c</hi> and the Printer had left our the word <hi>minde:</hi> but what ſtuffe it is ſo read was obſerved then by the Commit<g ref="char:EOLhyphen"/>tee.</p>
+            <p>It was proved that a Pariſhioner of his being ſeduced to Popery by a Romiſh Prieſt and others, the Doctour was intreated to admoniſh and reclaime her: and though hee had beene ſolicited three or foure ſeverall times, yet he refuſed, although he came to the next doore (to dinner) where ſhee dwelt: her husband being ſomewhat im<g ref="char:EOLhyphen"/>portunate the laſt time to have him conferre with his ſeduced wife, hee was very angry with him, and wiſhed him not to trouble him.</p>
+            <p>Another woman being perverted, her husband got her to goe to the Doctour, hoping by his councell and reaſons, to have reclaimed her: inſtead whereof, hee confirmed her, in ſaying, that Salvation might bee had in the Church of <hi>Rome:</hi> which though it were, true was very unſeaſon<g ref="char:EOLhyphen"/>ably ſpoken, and ſhewed that hee had no great deſire ſhee ſhould returne.</p>
+            <p>He hath cauſed the <hi>Protestation</hi> to be read and taken in that ridiculous, abſurd, and diſdainfull manner, with much ſcorne and jeering, that the Pariſhioners that are forward
+<pb n="9" facs="tcp:66245:6"/>and well affected to that juſt and pious act become the ſcorne and laughter of their neighbour Papiſts, and to di<g ref="char:EOLhyphen"/>vers of the Veſtry, his Creatures, of whom none hath taken it as Pariſhioner, nor one word ſaid to encourage others to take it in Pulpit or elſe where, but much to the contrary.</p>
+            <p>Many other things as bad as theſe could have beene proved, but what was already heard, appeared ſufficient cauſe for his removall, which this Honourable Aſſembly without all queſtion will doe, when thoſe other weighty Affaires of more generall concernment are ſetled, eſpeci<g ref="char:EOLhyphen"/>ally in regard he doth ſtill perſiſt in his old manner not re<g ref="char:EOLhyphen"/>forming any conſiderable thing; his Atar ſtands deckt continually, week-dayes and all, and mewed up within the Screene and Rayles as before: ſome of the Pariſhio<g ref="char:EOLhyphen"/>ners deſiring to receive the Sacrament in their Pewes, were denied it and ſent away without it, and hee forceth all to come up to the Rayles ſtill as before. In divers of his Sermons ſince the hearing of his buſineſſe, hee hath with much bitterneſſe inveighed againſt the Petitioners, and at thoſe that goe from their owne Pariſh Church, although hee hath ſo weake a voice that hee cannot be heard by the one halfe of thoſe that come to Church.</p>
+            <p>All the Premiſes well knowne, and ſeriouſly conſider<g ref="char:EOLhyphen"/>ed, there can no reaſon be given by any well affe<g ref="char:EOLhyphen"/>cted Proteſtant to deſire his continuance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
